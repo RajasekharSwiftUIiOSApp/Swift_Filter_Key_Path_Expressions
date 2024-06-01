@@ -16,6 +16,7 @@
 		4C8A9A3D2C0ADFEF00E4C1AC /* Key_Path_ExpressionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8A9A3C2C0ADFEF00E4C1AC /* Key_Path_ExpressionsTests.swift */; };
 		4C8A9A472C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8A9A462C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITests.swift */; };
 		4C8A9A492C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8A9A482C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITestsLaunchTests.swift */; };
+		4C8A9A562C0AE0FB00E4C1AC /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8A9A552C0AE0FB00E4C1AC /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4C8A9A422C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Key_Path_ExpressionsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C8A9A462C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Key_Path_ExpressionsUITests.swift; sourceTree = "<group>"; };
 		4C8A9A482C0ADFEF00E4C1AC /* Key_Path_ExpressionsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Key_Path_ExpressionsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4C8A9A552C0AE0FB00E4C1AC /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4C8A9A252C0ADFEE00E4C1AC /* AppDelegate.swift */,
 				4C8A9A272C0ADFEE00E4C1AC /* SceneDelegate.swift */,
 				4C8A9A292C0ADFEE00E4C1AC /* ViewController.swift */,
+				4C8A9A552C0AE0FB00E4C1AC /* Person.swift */,
 				4C8A9A2B2C0ADFEE00E4C1AC /* Main.storyboard */,
 				4C8A9A2E2C0ADFEF00E4C1AC /* Assets.xcassets */,
 				4C8A9A302C0ADFEF00E4C1AC /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				4C8A9A2A2C0ADFEE00E4C1AC /* ViewController.swift in Sources */,
 				4C8A9A262C0ADFEE00E4C1AC /* AppDelegate.swift in Sources */,
+				4C8A9A562C0AE0FB00E4C1AC /* Person.swift in Sources */,
 				4C8A9A282C0ADFEE00E4C1AC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
