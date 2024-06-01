@@ -36,9 +36,9 @@ class ViewController: UIViewController {
         ]
 
         let emailsKeyPathExpressions =  emailsOnlyWithClosers(person)
-        let emails = emailsOnlyWithKeyPathExpressions(person)
+        let emailsUsingClouserXcode = emailsOnlyWithKeyPathExpressions(person)
         print(emailsKeyPathExpressions)
-        print(emails)
+        print(emailsUsingClouserXcode)
     }
 
 }
